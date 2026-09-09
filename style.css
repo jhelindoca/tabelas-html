@@ -1,0 +1,24 @@
+th {
+
+    background-color: #c8514b;
+
+    color: rgb(235, 136, 23);
+
+}
+
+td {
+
+    background-color: #c8514b;
+
+    border: 1px solid #eb8950;
+
+    padding: 8px;
+}
+
+tr:nth-child(even) td {
+
+    background-color: #e5cabf;
+
+}
+ 
+
